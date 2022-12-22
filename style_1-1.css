@@ -1,0 +1,24 @@
+div.five{
+    background-color: green
+}
+div.zero{
+    background-color: lightblue;
+}
+div.first{
+    background-color: green;
+    opacity: 0.1;
+}
+div.second{
+    background-color: green;
+    opacity: 0.3;
+}
+div.third{
+    background-color: green;
+    opacity: 0.6;
+}
+div.fourth{
+    background-color: green;
+}
+div.six{
+    color: white;
+}
